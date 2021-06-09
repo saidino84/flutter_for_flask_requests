@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../web/flask_lesson/flask_api_tim_restfull"
+		}
+	],
+	"settings": {}
+}
